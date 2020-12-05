@@ -17,7 +17,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Blazor.Components.Debounce\Blazor.Components.Debounce.csproj" />
+	  <ProjectReference Include="..\Blazor.Components.Debounce\Majorsoft.Blazor.Components.Debounce.csproj" />
 	</ItemGroup>
 
 </Project>

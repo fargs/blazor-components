@@ -44,7 +44,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Components.DemoApp",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Components.Typeahead", "Blazor.Components.Typeahead\Blazor.Components.Typeahead.csproj", "{BCC37A28-2B04-44C1-9377-27C59C77486C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Components.Debounce", "Blazor.Components.Debounce\Blazor.Components.Debounce.csproj", "{8C405A8C-2A8E-4990-A6DE-F1637D04CC32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Majorsoft.Blazor.Components.Debounce", "Blazor.Components.Debounce\Majorsoft.Blazor.Components.Debounce.csproj", "{8C405A8C-2A8E-4990-A6DE-F1637D04CC32}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Components.Common.JsInterop", "Blazor.Components.Common.JsInterop\Blazor.Components.Common.JsInterop.csproj", "{9CD59D7A-0211-401F-99A1-C646CCD2546E}"
 EndProject
@@ -60,7 +60,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Components.Timer.Tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Components.PermaLink.Tests", "Blazor.Components.PermaLink.Tests\Blazor.Components.PermaLink.Tests.csproj", "{3237B7A9-BA2E-451F-B4BA-9DCC9AF6C1B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.Components.Modal.Tests", "Blazor.Components.Modal.Tests\Blazor.Components.Modal.Tests.csproj", "{706982AF-8813-441E-8077-FA81FA265EB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Components.Modal.Tests", "Blazor.Components.Modal.Tests\Blazor.Components.Modal.Tests.csproj", "{706982AF-8813-441E-8077-FA81FA265EB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

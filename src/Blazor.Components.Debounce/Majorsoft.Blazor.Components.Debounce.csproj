@@ -22,11 +22,6 @@
 	<PackageLicenseFile>License.txt</PackageLicenseFile>
   </PropertyGroup>
 
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>D:\Projects\GitHub\blazor-components\src\Blazor.Components.Debounce\Blazor.Components.Debounce.xml</DocumentationFile>
-  </PropertyGroup>
-
-
   <ItemGroup>
 	<PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="5.0.0" />
   </ItemGroup>
