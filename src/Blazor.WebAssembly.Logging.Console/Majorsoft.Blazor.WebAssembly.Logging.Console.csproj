@@ -23,15 +23,13 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>D:\Projects\GitHub\blazor-components\src\Blazor.WebAssembly.Logging.Console\Blazor.WebAssembly.Logging.Console.xml</DocumentationFile>
+    <DocumentationFile>.\Majorsoft.Blazor.WebAssembly.Logging.Console.xml</DocumentationFile>
   </PropertyGroup>
-
 
   <ItemGroup>
 	<PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="5.0.0" />
 	<PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
   </ItemGroup>
-
 
   <ItemGroup>
 	<None Include="..\..\.github\Images\blazor.components.png">

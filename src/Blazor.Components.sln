@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestApps", "TestApps", "{56
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Components.TestServerApp", "Blazor.Components.TestServerApp\Blazor.Components.TestServerApp.csproj", "{9191C0E3-00D3-4620-8D7A-7D87B14BA5AD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.WebAssembly.Logging.Console", "Blazor.WebAssembly.Logging.Console\Blazor.WebAssembly.Logging.Console.csproj", "{ACACEFFD-DD64-49F4-A7AC-A26F17F55FA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Majorsoft.Blazor.WebAssembly.Logging.Console", "Blazor.WebAssembly.Logging.Console\Majorsoft.Blazor.WebAssembly.Logging.Console.csproj", "{ACACEFFD-DD64-49F4-A7AC-A26F17F55FA6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extensions", "Extensions", "{121A4471-EF7A-4F9A-A856-67E8376A4AD2}"
 EndProject

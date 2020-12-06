@@ -26,6 +26,9 @@
 	<PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="5.0.0" />
   </ItemGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>.\Majorsoft.Blazor.Components.Debounce.xml</DocumentationFile>
+  </PropertyGroup>
 
   <ItemGroup>
 	<None Include="..\..\.github\Images\blazor.components.png">
